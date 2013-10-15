@@ -1,14 +1,6 @@
       {
          version: "0.0.1",
-         changelog: "# v0.0.1
-
-## 功能更新
-
-+ 搜尋看版文章支援多重條件
-+ 連續推文失敗時會有提示
-
-
-,
+         changelog: "# v0.0.1\n\n## 功能更新\n\n+ 搜尋看版文章支援多重條件\n+ 連續推文失敗時會有提示\n\n\n",
          digest: "72c37fca200c564e57690fdfff138996",
          main_url: "http://raincole.github.io/iPTT/main_72c37fca200c564e57690fdfff138996.js"
       }
