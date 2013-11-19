@@ -1,6 +1,6 @@
       {
-         "version": "0.0.2",
-         "changelog": "# v0.0.2\n\n## 功能更新\n\n+ 可使用AID取得文章\n\n\n",
-         "digest": "11c67ccbc933c8da78b4d2fc159e6347",
-         "main_url": "http://raincole.github.io/iPTT/main_11c67ccbc933c8da78b4d2fc159e6347.js"
+         "version": "0.0.3",
+         "changelog": "# v0.0.3\n\n+ 改善逾時時間太短的問題\n+ 載入速度加快 5 倍",
+         "digest": "ed4650960d14b84a43c0d250952b2055",
+         "main_url": "http://raincole.github.io/iPTT/main_ed4650960d14b84a43c0d250952b2055.js"
       }
