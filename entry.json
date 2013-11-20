@@ -1,6 +1,6 @@
       {
-         "version": "0.0.3",
-         "changelog": "# v0.0.3\n\n+ 改善逾時時間太短的問題\n+ 載入速度加快 5 倍",
-         "digest": "ed4650960d14b84a43c0d250952b2055",
-         "main_url": "http://raincole.github.io/iPTT/main_ed4650960d14b84a43c0d250952b2055.js"
+         "version": "0.0.4",
+         "changelog": "# v0.0.4\n\n+ 改善某些無法登入的狀況",
+         "digest": "e11eac39e5a14f0f170060012375cdac",
+         "main_url": "http://raincole.github.io/iPTT/main_e11eac39e5a14f0f170060012375cdac.js"
       }
