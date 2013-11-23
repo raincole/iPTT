@@ -1,6 +1,6 @@
       {
-         "version": "0.0.4",
-         "changelog": "# v0.0.4\n\n+ 改善某些無法登入的狀況",
-         "digest": "e11eac39e5a14f0f170060012375cdac",
-         "main_url": "http://raincole.github.io/iPTT/main_e11eac39e5a14f0f170060012375cdac.js"
+         "version": "0.0.5",
+         "changelog": "# v0.0.5\n\n+ 修正無法進入 NBA 版問題\n+ 修正熱門看版錯誤問題\n+ 改善文章排版",
+         "digest": "d3773b3d49c415d339f8fea20b41e844",
+         "main_url": "http://raincole.github.io/iPTT/main_d3773b3d49c415d339f8fea20b41e844.js"
       }
