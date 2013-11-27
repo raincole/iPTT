@@ -1,6 +1,6 @@
       {
-         "version": "0.0.6",
-         "changelog": "# v0.0.6\n\n+ 修正資料夾無法顯示問題",
+         "version": "0.0.7",
+         "changelog": "# v0.0.7\n\n+ 修正資料夾無法顯示問題",
          "digest": "9131a0adb1741b4103bd3d841ff62598",
          "main_url": "http://raincole.github.io/iPTT/main_9131a0adb1741b4103bd3d841ff62598.js"
       }
